@@ -1,4 +1,6 @@
 # ![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/dashboard_preview.png)
+
 
 # Sales Analysis with Power BI
 
